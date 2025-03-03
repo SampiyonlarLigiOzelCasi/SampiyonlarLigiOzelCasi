@@ -1,1 +1,1 @@
-# -ampiyonlarLigiOzelCasi
+# SampiyonlarLigiOzelCasi
